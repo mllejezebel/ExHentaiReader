@@ -1,4 +1,4 @@
-# Hentai Reader
+# Hentai Reader (Modified)
 ![](https://i.imgur.com/eM0ceOr.png)
 
 ### Download
